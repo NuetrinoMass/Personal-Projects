@@ -1,0 +1,928 @@
+EDUC,GENDER,MARRIAGE,OWNSTATE,RELIG1,SELFBORN,VOLUNT1,Education_Level,Male,Marriage_Status,Own_State,Christian,BORN_USA,Volunteer
+4 years of coll./B.A. degree,Male,Never married,Poor,Protestant,Yes,No,1,1,0,0,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,Yes,3,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Fair,Protestant,Yes,Yes,1,0,1,1,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Catholic,No,Yes,2,1,1,3,1,0,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,No religion,Yes,Yes,1,0,2,3,0,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Other religion,No,Yes,1,1,1,2,0,0,1
+"12th grade, H.S. diploma",Female,Divorced,Very good,Protestant,Yes,No,0,0,2,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,No,Yes,1,1,1,4,1,0,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,No,1,0,1,4,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Very good,Catholic,Yes,Yes,3,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,Yes,No,0,0,1,3,1,1,0
+M.A. or M.S. degree,Male,Married,Good,Catholic,No,Yes,2,1,1,2,1,0,1
+"Professional (PhD, JD, MD)",Female,Married,Poor,Protestant,Yes,No,3,0,1,0,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Excellent,Catholic,Yes,No,1,1,0,4,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Excellent,Catholic,Yes,No,1,0,2,4,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,No,No,1,0,1,3,1,0,0
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,No,No,1,1,1,2,1,0,0
+M.A. or M.S. degree,Male,Divorced,Good,Protestant,Yes,No,2,1,2,2,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,Yes,0,0,3,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Excellent,Protestant,Yes,No,1,1,0,4,1,1,0
+"Professional (PhD, JD, MD)",Male,Divorced,Very good,Other religion,No,Yes,3,1,2,3,0,0,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,Yes,1,1,1,3,0,1,1
+4 years of coll./B.A. degree,Male,Married,Poor,No religion,No,No,1,1,1,0,0,0,0
+M.A. or M.S. degree,Male,Married,Poor,Protestant,Yes,Yes,2,1,1,0,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+M.A. or M.S. degree,Male,Divorced,Excellent,No religion,Yes,Yes,2,1,2,4,0,1,1
+4 years of coll./B.A. degree,Female,Married,Fair,Protestant,Yes,Yes,1,0,1,1,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,No,2,0,1,2,1,1,0
+4 years of coll./B.A. degree,Female,Married,Fair,Catholic,No,No,1,0,1,1,1,0,0
+M.A. or M.S. degree,Female,Married,Very good,No religion,No,No,2,0,1,3,0,0,0
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,No,2,1,1,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Excellent,Protestant,Yes,Yes,3,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Other religion,Yes,Yes,1,0,1,4,0,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Catholic,Yes,Yes,3,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,Yes,No,1,0,2,2,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,No,1,0,2,3,1,1,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Catholic,No,No,1,0,3,3,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,Yes,0,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Excellent,Protestant,Yes,No,1,0,3,4,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Very good,Protestant,Yes,No,1,0,0,3,1,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Other religion,No,Yes,2,1,1,3,0,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Fair,Protestant,Yes,Yes,0,0,2,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,No,1,1,1,3,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,No,Yes,3,1,1,4,1,0,1
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,No,1,0,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Poor,Protestant,Yes,Yes,1,0,2,0,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Excellent,Protestant,Yes,Yes,1,0,3,4,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Other religion,No,Yes,2,1,1,4,0,0,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Good,Protestant,Yes,Yes,3,0,1,2,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Very good,Other religion,No,Yes,3,0,1,3,0,0,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,No,3,1,1,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,No,0,0,1,2,1,1,0
+"12th grade, H.S. diploma",Female,Never married,Fair,No religion,Yes,No,0,0,0,1,0,1,0
+4 years of coll./B.A. degree,Male,Widowed,Very good,Protestant,Yes,No,1,1,3,3,1,1,0
+4 years of coll./B.A. degree,Male,Widowed,Very good,Protestant,Yes,No,1,1,3,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Very good,Catholic,Yes,Yes,0,1,3,3,1,1,1
+M.A. or M.S. degree,Male,Married,Poor,Catholic,Yes,Yes,2,1,1,0,1,1,1
+M.A. or M.S. degree,Female,Never married,Fair,Protestant,Yes,No,2,0,0,1,1,1,0
+"12th grade, H.S. diploma",Male,Divorced,Fair,Protestant,Yes,No,0,1,2,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,No,1,1,1,4,1,1,0
+M.A. or M.S. degree,Female,Divorced,Excellent,Protestant,Yes,Yes,2,0,2,4,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+M.A. or M.S. degree,Male,Never married,Fair,Catholic,Yes,Yes,2,1,0,1,1,1,1
+4 years of coll./B.A. degree,Male,Widowed,Good,Protestant,Yes,Yes,1,1,3,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,Yes,No,0,1,1,1,1,1,0
+"Professional (PhD, JD, MD)",Female,Divorced,Very good,Protestant,Yes,Yes,3,0,2,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Divorced,Fair,Protestant,Yes,No,3,0,2,1,1,1,0
+M.A. or M.S. degree,Female,Married,Good,Protestant,No,Yes,2,0,1,2,1,0,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,Catholic,Yes,Yes,1,1,0,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,No religion,Yes,No,0,1,1,3,0,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Other religion,No,No,3,1,1,2,0,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,No,1,0,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Very good,Catholic,No,Yes,3,0,1,3,1,0,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,Yes,3,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,No religion,No,No,1,0,1,4,0,0,0
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,No religion,No,No,1,1,1,4,0,0,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,No,Yes,2,0,1,4,1,0,1
+"Professional (PhD, JD, MD)",Male,Widowed,Good,Protestant,Yes,Yes,3,1,3,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Very good,Protestant,Yes,Yes,3,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Protestant,Yes,Yes,1,0,3,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Catholic,Yes,Yes,2,0,2,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,No,1,0,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Divorced,Good,Protestant,Yes,Yes,1,1,2,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,No,No,1,1,1,4,1,0,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,No,2,0,1,3,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Excellent,Protestant,Yes,Yes,0,1,0,4,1,1,1
+M.A. or M.S. degree,Female,Divorced,Fair,Protestant,Yes,Yes,2,0,2,1,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Fair,Protestant,Yes,Yes,0,1,2,1,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Other religion,No,Yes,1,0,1,2,0,0,1
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,Yes,Yes,0,1,1,1,1,1,1
+"Professional (PhD, JD, MD)",Male,Widowed,Very good,Protestant,Yes,Yes,3,1,3,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Never married,Good,No religion,Yes,Yes,3,0,0,2,0,1,1
+"12th grade, H.S. diploma",Male,Divorced,Fair,Protestant,Yes,Yes,0,1,2,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,Yes,Yes,1,0,2,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,No,3,1,1,4,1,1,0
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,No,0,1,1,3,1,1,0
+"Professional (PhD, JD, MD)",Female,Never married,Good,Catholic,No,No,3,0,0,2,1,0,0
+M.A. or M.S. degree,Female,Divorced,Good,Protestant,Yes,Yes,2,0,2,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Poor,Protestant,Yes,Yes,1,1,1,0,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Catholic,Yes,Yes,2,0,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Other religion,No,Yes,1,1,1,3,0,0,1
+"Professional (PhD, JD, MD)",Female,Married,Good,Other religion,No,No,3,0,1,2,0,0,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,No,3,1,1,2,1,1,0
+"12th grade, H.S. diploma",Male,Divorced,Very good,Protestant,Yes,No,0,1,2,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Fair,Catholic,Yes,Yes,3,1,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Female,Married,Excellent,Jewish,Yes,No,2,0,1,4,0,1,0
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,No,Yes,1,0,1,4,1,0,1
+"Professional (PhD, JD, MD)",Female,Widowed,Poor,Protestant,Yes,No,3,0,3,0,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Very good,Catholic,Yes,No,1,0,0,3,1,1,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+M.A. or M.S. degree,Female,Widowed,Good,Catholic,No,Yes,2,0,3,2,1,0,1
+4 years of coll./B.A. degree,Male,Married,Good,No religion,No,Yes,1,1,1,2,0,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,No,1,1,1,2,1,1,0
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,Yes,Yes,0,0,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Protestant,Yes,Yes,1,0,3,2,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,No,2,1,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Good,Protestant,Yes,No,0,1,3,2,1,1,0
+"12th grade, H.S. diploma",Female,Married,Excellent,Protestant,Yes,Yes,0,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Catholic,Yes,Yes,1,0,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Poor,Protestant,Yes,Yes,1,1,1,0,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Catholic,Yes,No,1,0,3,2,1,1,0
+M.A. or M.S. degree,Female,Widowed,Excellent,No religion,Yes,No,2,0,3,4,0,1,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,No,1,0,3,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Other religion,Yes,Yes,1,0,1,3,0,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,No religion,Yes,No,1,1,0,2,0,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,Protestant,Yes,Yes,1,0,0,2,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,No,2,0,2,3,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,No religion,Yes,Yes,3,1,1,4,0,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,No,1,1,1,3,0,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,No religion,Yes,No,1,0,0,2,0,1,0
+M.A. or M.S. degree,Female,Divorced,Good,Protestant,Yes,Yes,2,0,2,2,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Excellent,Catholic,Yes,No,1,0,3,4,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Very good,Protestant,Yes,Yes,1,0,0,3,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Other religion,No,Yes,2,0,1,2,0,0,1
+"12th grade, H.S. diploma",Male,Divorced,Good,Protestant,Yes,No,0,1,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Good,Catholic,Yes,Yes,1,1,0,2,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,Yes,0,1,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Good,No religion,No,Yes,2,1,1,2,0,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Divorced,Good,No religion,Yes,Yes,1,1,2,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,No,Yes,1,1,1,3,1,0,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Widowed,Poor,Protestant,Yes,No,2,1,3,0,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Other religion,No,No,2,0,1,2,0,0,0
+4 years of coll./B.A. degree,Female,Divorced,Excellent,No religion,Yes,Yes,1,0,2,4,0,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,Yes,2,0,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Other religion,No,No,2,1,1,3,0,0,0
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,No,2,1,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,No religion,No,No,2,1,1,4,0,0,0
+M.A. or M.S. degree,Male,Married,Good,Catholic,Yes,Yes,2,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Excellent,Protestant,Yes,Yes,1,0,2,4,1,1,1
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Catholic,Yes,No,2,1,1,4,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Excellent,Protestant,Yes,Yes,1,0,2,4,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+M.A. or M.S. degree,Male,Married,Fair,Protestant,Yes,Yes,2,1,1,1,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Very good,Protestant,Yes,No,3,1,1,3,1,1,0
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,Yes,2,0,1,2,1,1,1
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,No religion,Yes,Yes,2,1,1,4,0,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,No,1,1,1,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Fair,No religion,Yes,No,1,1,1,1,0,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+"Professional (PhD, JD, MD)",Female,Widowed,Very good,Protestant,Yes,Yes,3,0,3,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Poor,Protestant,Yes,No,1,0,1,0,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,No,Yes,3,1,1,4,1,0,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Good,Protestant,Yes,No,0,0,2,2,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,Yes,2,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,No religion,Yes,Yes,3,1,1,4,0,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,No,Yes,1,0,1,2,1,0,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,No,Yes,0,1,1,2,1,0,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,No,Yes,1,0,1,3,1,0,1
+M.A. or M.S. degree,Female,Never married,Good,Protestant,Yes,No,2,0,0,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Good,Other religion,No,Yes,2,1,1,2,0,0,1
+"12th grade, H.S. diploma",Female,Widowed,Excellent,Protestant,Yes,Yes,0,0,3,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,Yes,No,1,0,1,4,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,No,0,0,1,2,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Other religion,No,No,1,1,1,3,0,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,Yes,1,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Other religion,No,No,2,0,1,2,0,0,0
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,Yes,Yes,0,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Divorced,Very good,No religion,Yes,No,3,0,2,3,0,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,Yes,Yes,0,0,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,No,0,0,3,3,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,Protestant,Yes,Yes,1,0,0,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Catholic,No,Yes,3,1,1,2,1,0,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,Yes,3,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,No,1,0,1,4,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Jewish,No,Yes,2,0,1,4,0,0,1
+4 years of coll./B.A. degree,Male,Widowed,Very good,No religion,Yes,No,1,1,3,3,0,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,No,1,0,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Fair,Protestant,Yes,Yes,3,1,1,1,1,1,1
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+M.A. or M.S. degree,Female,Never married,Very good,No religion,Yes,No,2,0,0,3,0,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Catholic,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Other religion,No,Yes,1,1,1,3,0,0,1
+4 years of coll./B.A. degree,Female,Married,Good,Other religion,No,Yes,1,0,1,2,0,0,1
+M.A. or M.S. degree,Female,Never married,Good,Catholic,No,Yes,2,0,0,2,1,0,1
+M.A. or M.S. degree,Female,Married,Excellent,Other religion,No,Yes,2,0,1,4,0,0,1
+"12th grade, H.S. diploma",Female,Widowed,Excellent,Catholic,Yes,Yes,0,0,3,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Jewish,Yes,No,1,1,1,2,0,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Widowed,Very good,Catholic,Yes,Yes,1,1,3,3,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,No,0,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,No,Yes,1,0,1,2,1,0,1
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,No,1,1,1,3,0,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,No religion,Yes,No,0,0,1,1,0,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,No,1,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Divorced,Excellent,Protestant,No,No,0,0,2,4,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,No,0,1,1,2,1,1,0
+"12th grade, H.S. diploma",Male,Married,Excellent,Protestant,Yes,No,0,1,1,4,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,Yes,3,1,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,No religion,Yes,Yes,3,1,1,2,0,1,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,Catholic,Yes,No,1,0,2,3,1,1,0
+4 years of coll./B.A. degree,Male,Widowed,Excellent,Protestant,Yes,Yes,1,1,3,4,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,No,1,0,3,3,1,1,0
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,Yes,Yes,0,1,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Other religion,No,Yes,2,1,1,3,0,0,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,Yes,2,0,1,2,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Other religion,No,Yes,2,0,1,2,0,0,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,No,2,1,1,4,1,1,0
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,No,0,1,1,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Good,No religion,No,Yes,3,0,1,2,0,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Divorced,Very good,Protestant,Yes,No,1,1,2,3,1,1,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,Yes,1,0,3,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Protestant,Yes,Yes,0,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,Catholic,Yes,Yes,1,1,1,1,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,No,Yes,1,0,1,2,1,0,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Catholic,Yes,Yes,3,1,1,4,1,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,Yes,Yes,0,1,1,1,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Protestant,Yes,Yes,1,0,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Catholic,No,No,3,1,1,2,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,No,0,1,1,2,1,1,0
+"12th grade, H.S. diploma",Female,Never married,Good,Catholic,Yes,No,0,0,0,2,1,1,0
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,Yes,No,0,0,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Catholic,Yes,Yes,1,0,3,3,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,No,2,0,1,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Excellent,Protestant,Yes,Yes,3,0,1,4,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Catholic,Yes,No,2,0,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,No religion,Yes,Yes,3,1,1,2,0,1,1
+"12th grade, H.S. diploma",Female,Never married,Fair,Protestant,Yes,No,0,0,0,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Fair,No religion,No,No,3,1,1,1,0,0,0
+"12th grade, H.S. diploma",Male,Widowed,Excellent,Protestant,Yes,No,0,1,3,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Very good,No religion,No,No,3,1,1,3,0,0,0
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,No,1,1,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,No,No,1,0,1,3,1,0,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+"Professional (PhD, JD, MD)",Female,Divorced,Very good,Protestant,Yes,No,3,0,2,3,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Very good,Protestant,Yes,No,3,1,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Other religion,No,Yes,1,1,1,4,0,0,1
+M.A. or M.S. degree,Male,Married,Very good,No religion,Yes,Yes,2,1,1,3,0,1,1
+M.A. or M.S. degree,Male,Married,Good,Catholic,Yes,No,2,1,1,2,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,No,Yes,1,0,1,3,1,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,No religion,Yes,Yes,0,0,1,3,0,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,Yes,No,0,1,1,1,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,Yes,2,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,Yes,0,0,0,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Other religion,No,No,1,1,1,2,0,0,0
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,Protestant,Yes,No,1,1,0,2,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,Yes,0,0,3,3,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Good,Protestant,Yes,No,0,1,3,2,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,Yes,Yes,1,0,2,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Catholic,No,No,0,0,3,2,1,0,0
+4 years of coll./B.A. degree,Male,Divorced,Very good,Catholic,Yes,No,1,1,2,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,No,No,1,0,1,2,1,0,0
+M.A. or M.S. degree,Male,Married,Good,Other religion,Yes,Yes,2,1,1,2,0,1,1
+4 years of coll./B.A. degree,Male,Widowed,Very good,Protestant,Yes,No,1,1,3,3,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Other religion,No,No,2,1,1,3,0,0,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+"Professional (PhD, JD, MD)",Female,Widowed,Excellent,Protestant,Yes,No,3,0,3,4,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Excellent,Catholic,Yes,Yes,0,1,0,4,1,1,1
+M.A. or M.S. degree,Male,Never married,Very good,Protestant,Yes,Yes,2,1,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,No religion,Yes,Yes,1,1,0,2,0,1,1
+"12th grade, H.S. diploma",Male,Never married,Poor,Catholic,Yes,No,0,1,0,0,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Fair,Other religion,No,Yes,1,0,1,1,0,0,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,No,1,0,1,4,1,1,0
+"12th grade, H.S. diploma",Female,Divorced,Good,Protestant,Yes,No,0,0,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,No religion,Yes,Yes,1,1,1,4,0,1,1
+"12th grade, H.S. diploma",Male,Never married,Fair,Catholic,Yes,No,0,1,0,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,No religion,Yes,Yes,1,0,1,2,0,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Protestant,Yes,Yes,1,0,3,2,1,1,1
+M.A. or M.S. degree,Female,Widowed,Fair,Catholic,No,Yes,2,0,3,1,1,0,1
+"12th grade, H.S. diploma",Male,Never married,Good,Catholic,Yes,No,0,1,0,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Very good,Other religion,No,No,3,0,1,3,0,0,0
+"Professional (PhD, JD, MD)",Female,Married,Excellent,Protestant,Yes,Yes,3,0,1,4,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Fair,Protestant,Yes,Yes,0,1,0,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Good,Protestant,Yes,Yes,3,0,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,Yes,Yes,0,1,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Very good,Protestant,Yes,No,3,0,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Good,Catholic,Yes,No,0,1,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,No,1,1,1,4,1,1,0
+"12th grade, H.S. diploma",Male,Divorced,Good,Protestant,Yes,No,0,1,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,No religion,Yes,Yes,1,1,1,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Protestant,No,No,1,0,3,2,1,0,0
+"Professional (PhD, JD, MD)",Male,Never married,Excellent,Catholic,Yes,No,3,1,0,4,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Fair,Catholic,Yes,No,0,0,3,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,No,2,1,1,3,1,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Fair,Protestant,Yes,Yes,1,1,0,1,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,No religion,Yes,No,1,0,1,4,0,1,0
+4 years of coll./B.A. degree,Male,Widowed,Poor,No religion,Yes,Yes,1,1,3,0,0,1,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Protestant,Yes,Yes,0,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Other religion,Yes,Yes,1,0,1,3,0,1,1
+M.A. or M.S. degree,Female,Married,Good,Catholic,Yes,Yes,2,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,Yes,1,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,Yes,No,0,0,1,3,1,1,0
+M.A. or M.S. degree,Female,Never married,Good,Protestant,Yes,Yes,2,0,0,2,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,Yes,No,0,0,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Catholic,No,No,0,0,1,1,1,0,0
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,Yes,0,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Fair,Protestant,Yes,Yes,2,0,1,1,1,1,1
+M.A. or M.S. degree,Male,Divorced,Excellent,Catholic,Yes,No,2,1,2,4,1,1,0
+4 years of coll./B.A. degree,Female,Married,Fair,Protestant,Yes,Yes,1,0,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,Yes,0,0,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Fair,No religion,Yes,No,2,0,1,1,0,1,0
+4 years of coll./B.A. degree,Female,Divorced,Excellent,Catholic,Yes,No,1,0,2,4,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,Protestant,Yes,No,1,0,0,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Female,Married,Fair,Catholic,Yes,No,1,0,1,1,1,1,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,No,1,0,3,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,No,0,0,1,2,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+M.A. or M.S. degree,Female,Divorced,Good,No religion,Yes,Yes,2,0,2,2,0,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,No religion,Yes,Yes,0,0,1,3,0,1,1
+4 years of coll./B.A. degree,Female,Widowed,Fair,Protestant,Yes,Yes,1,0,3,1,1,1,1
+"12th grade, H.S. diploma",Male,Married,Poor,Protestant,Yes,No,0,1,1,0,1,1,0
+M.A. or M.S. degree,Female,Married,Good,Catholic,Yes,Yes,2,0,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Fair,Protestant,Yes,No,0,1,2,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Other religion,Yes,Yes,1,1,1,2,0,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Fair,Protestant,Yes,Yes,0,0,2,1,1,1,1
+"12th grade, H.S. diploma",Male,Married,Poor,Protestant,Yes,No,0,1,1,0,1,1,0
+4 years of coll./B.A. degree,Male,Married,Poor,Protestant,Yes,Yes,1,1,1,0,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,No,No,0,0,1,2,1,0,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,Yes,3,1,1,4,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,No,Yes,1,1,1,3,1,0,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Widowed,Very good,Protestant,Yes,Yes,3,0,3,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Catholic,No,No,0,0,1,4,1,0,0
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,Yes,0,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Poor,Protestant,Yes,Yes,1,0,2,0,1,1,1
+M.A. or M.S. degree,Female,Divorced,Good,Protestant,Yes,Yes,2,0,2,2,1,1,1
+"Professional (PhD, JD, MD)",Female,Never married,Excellent,No religion,No,Yes,3,0,0,4,0,0,1
+M.A. or M.S. degree,Male,Never married,Good,Catholic,Yes,Yes,2,1,0,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Fair,Protestant,Yes,No,0,0,3,1,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Catholic,No,Yes,2,1,1,3,1,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Catholic,Yes,Yes,2,0,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Very good,Protestant,Yes,Yes,0,0,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,No,0,0,1,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Fair,Catholic,Yes,Yes,3,0,1,1,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+M.A. or M.S. degree,Female,Widowed,Very good,Jewish,Yes,Yes,2,0,3,3,0,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,No religion,Yes,No,1,0,1,3,0,1,0
+4 years of coll./B.A. degree,Female,Never married,Excellent,Other religion,Yes,No,1,0,0,4,0,1,0
+"Professional (PhD, JD, MD)",Female,Divorced,Very good,No religion,No,Yes,3,0,2,3,0,0,1
+"Professional (PhD, JD, MD)",Female,Married,Good,Protestant,No,No,3,0,1,2,1,0,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,Yes,1,0,3,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Other religion,Yes,Yes,1,1,1,2,0,1,1
+"12th grade, H.S. diploma",Female,Widowed,Fair,Protestant,Yes,Yes,0,0,3,1,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Poor,No religion,Yes,No,0,1,2,0,0,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,Yes,2,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Fair,Protestant,Yes,No,0,0,3,1,1,1,0
+M.A. or M.S. degree,Male,Married,Good,Other religion,No,No,2,1,1,2,0,0,0
+4 years of coll./B.A. degree,Male,Never married,Very good,No religion,Yes,No,1,1,0,3,0,1,0
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,No,No,0,0,1,2,1,0,0
+"12th grade, H.S. diploma",Male,Married,Poor,Catholic,Yes,Yes,0,1,1,0,1,1,1
+"12th grade, H.S. diploma",Female,Married,Fair,Catholic,No,No,0,0,1,1,1,0,0
+M.A. or M.S. degree,Male,Married,Poor,Protestant,Yes,Yes,2,1,1,0,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Catholic,Yes,Yes,3,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,No religion,Yes,Yes,2,1,1,3,0,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,No,Yes,0,0,1,3,1,0,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,Yes,1,0,3,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,No religion,No,Yes,1,1,1,1,0,0,1
+4 years of coll./B.A. degree,Male,Widowed,Good,Protestant,Yes,No,1,1,3,2,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,Protestant,Yes,Yes,1,0,0,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,No,0,1,1,2,1,1,0
+M.A. or M.S. degree,Female,Married,Poor,Protestant,Yes,Yes,2,0,1,0,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Excellent,Other religion,No,Yes,1,1,0,4,0,0,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,No,Yes,1,0,1,4,1,0,1
+4 years of coll./B.A. degree,Male,Married,Very good,Jewish,Yes,Yes,1,1,1,3,0,1,1
+4 years of coll./B.A. degree,Male,Divorced,Very good,Protestant,Yes,No,1,1,2,3,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,No,No,0,0,1,2,1,0,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Good,Catholic,No,No,3,0,1,2,1,0,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Catholic,Yes,No,2,1,1,4,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,No,2,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Excellent,Catholic,No,Yes,0,0,1,4,1,0,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,No,No,1,0,1,4,1,0,0
+4 years of coll./B.A. degree,Female,Never married,Good,Protestant,No,Yes,1,0,0,2,1,0,1
+4 years of coll./B.A. degree,Female,Widowed,Very good,Catholic,Yes,No,1,0,3,3,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Poor,Catholic,Yes,Yes,1,0,0,0,1,1,1
+"12th grade, H.S. diploma",Male,Married,Excellent,Protestant,Yes,Yes,0,1,1,4,1,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,Yes,No,0,1,1,1,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Excellent,Protestant,Yes,Yes,0,0,3,4,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Catholic,Yes,Yes,2,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,Yes,Yes,0,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,No religion,Yes,No,0,0,1,3,0,1,0
+4 years of coll./B.A. degree,Female,Never married,Very good,No religion,Yes,No,1,0,0,3,0,1,0
+"12th grade, H.S. diploma",Male,Divorced,Excellent,Catholic,Yes,No,0,1,2,4,1,1,0
+4 years of coll./B.A. degree,Male,Divorced,Very good,Protestant,Yes,Yes,1,1,2,3,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Jewish,Yes,Yes,2,1,1,4,0,1,1
+"12th grade, H.S. diploma",Male,Widowed,Excellent,Protestant,Yes,No,0,1,3,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,No,0,1,1,2,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Poor,Protestant,Yes,No,0,0,3,0,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Widowed,Good,Protestant,No,No,1,1,3,2,1,0,0
+"12th grade, H.S. diploma",Female,Widowed,Excellent,Catholic,No,No,0,0,3,4,1,0,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,Yes,0,0,3,2,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,No,0,0,0,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Very good,Protestant,Yes,Yes,3,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,No,No,0,0,1,3,1,0,0
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Poor,Protestant,Yes,No,0,1,0,0,1,1,0
+M.A. or M.S. degree,Female,Married,Fair,Protestant,Yes,Yes,2,0,1,1,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,No,No,1,1,1,1,1,0,0
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,No,0,0,1,2,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Fair,Protestant,No,No,3,0,1,1,1,0,0
+M.A. or M.S. degree,Female,Married,Excellent,Other religion,Yes,No,2,0,1,4,0,1,0
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,No,Yes,0,1,1,3,1,0,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Catholic,Yes,Yes,0,0,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Poor,Protestant,Yes,No,0,0,2,0,1,1,0
+"12th grade, H.S. diploma",Female,Never married,Fair,Protestant,Yes,No,0,0,0,1,1,1,0
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,No,No,0,0,1,2,1,0,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+"12th grade, H.S. diploma",Female,Married,Poor,Protestant,No,No,0,0,1,0,1,0,0
+4 years of coll./B.A. degree,Male,Married,Excellent,No religion,Yes,No,1,1,1,4,0,1,0
+"Professional (PhD, JD, MD)",Male,Widowed,Very good,Catholic,Yes,Yes,3,1,3,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,Protestant,Yes,Yes,1,1,0,2,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Good,No religion,No,No,0,1,0,2,0,0,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,No,1,1,1,1,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Very good,Catholic,Yes,No,0,0,3,3,1,1,0
+M.A. or M.S. degree,Female,Married,Excellent,Catholic,Yes,Yes,2,0,1,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,Yes,No,0,1,1,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Fair,Catholic,No,Yes,1,0,1,1,1,0,1
+"12th grade, H.S. diploma",Female,Never married,Excellent,No religion,Yes,No,0,0,0,4,0,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,No,2,1,1,4,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,Yes,Yes,0,0,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Good,No religion,Yes,No,0,1,0,2,0,1,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,No religion,Yes,Yes,3,1,1,4,0,1,1
+4 years of coll./B.A. degree,Male,Divorced,Good,Catholic,Yes,Yes,1,1,2,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Other religion,Yes,No,1,0,1,3,0,1,0
+"Professional (PhD, JD, MD)",Female,Never married,Very good,No religion,Yes,Yes,3,0,0,3,0,1,1
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,No,1,1,1,1,1,1,0
+M.A. or M.S. degree,Female,Divorced,Good,Protestant,Yes,No,2,0,2,2,1,1,0
+"Professional (PhD, JD, MD)",Male,Never married,Very good,Protestant,Yes,Yes,3,1,0,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Fair,No religion,Yes,No,3,0,1,1,0,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,No,1,1,1,3,0,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,No,No,0,0,1,1,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,No,No,0,1,1,2,1,0,0
+4 years of coll./B.A. degree,Male,Widowed,Very good,Protestant,Yes,No,1,1,3,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,Yes,Yes,1,0,1,4,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Catholic,No,Yes,3,1,1,2,1,0,1
+4 years of coll./B.A. degree,Female,Widowed,Fair,Protestant,Yes,Yes,1,0,3,1,1,1,1
+M.A. or M.S. degree,Female,Never married,Very good,Protestant,Yes,Yes,2,0,0,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,Yes,No,1,0,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,No,1,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Catholic,No,Yes,0,0,1,1,1,0,1
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Widowed,Good,Protestant,Yes,Yes,1,0,3,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,Yes,1,0,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,Yes,No,0,0,1,2,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Divorced,Good,Protestant,Yes,No,1,1,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,Yes,0,0,0,2,1,1,1
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,Yes,Yes,2,0,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Catholic,Yes,No,0,0,3,2,1,1,0
+"12th grade, H.S. diploma",Male,Divorced,Good,Protestant,Yes,No,0,1,2,2,1,1,0
+M.A. or M.S. degree,Female,Divorced,Good,Jewish,Yes,Yes,2,0,2,2,0,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,No,Yes,0,0,1,2,1,0,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+M.A. or M.S. degree,Female,Married,Good,No religion,Yes,Yes,2,0,1,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,No,Yes,1,1,1,3,1,0,1
+"12th grade, H.S. diploma",Male,Never married,Good,No religion,Yes,Yes,0,1,0,2,0,1,1
+"12th grade, H.S. diploma",Male,Divorced,Poor,Catholic,No,No,0,1,2,0,1,0,0
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Fair,Protestant,Yes,No,1,0,1,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,Yes,Yes,1,0,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,Yes,0,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,No religion,Yes,Yes,1,0,1,4,0,1,1
+M.A. or M.S. degree,Female,Widowed,Excellent,Protestant,Yes,Yes,2,0,3,4,1,1,1
+M.A. or M.S. degree,Male,Married,Fair,Other religion,No,No,2,1,1,1,0,0,0
+M.A. or M.S. degree,Female,Married,Very good,No religion,Yes,Yes,2,0,1,3,0,1,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Catholic,Yes,No,1,0,0,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,Other religion,Yes,Yes,1,0,1,3,0,1,1
+"12th grade, H.S. diploma",Female,Divorced,Very good,Protestant,Yes,No,0,0,2,3,1,1,0
+M.A. or M.S. degree,Female,Married,Very good,Catholic,Yes,Yes,2,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Good,Protestant,Yes,Yes,0,1,3,2,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Fair,Catholic,Yes,No,1,0,0,1,1,1,0
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,No,No,0,0,1,3,1,0,0
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,Yes,Yes,1,0,2,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,Yes,3,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Excellent,Protestant,Yes,No,0,1,2,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Fair,Protestant,Yes,Yes,1,1,1,1,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Very good,Protestant,Yes,No,0,1,3,3,1,1,0
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Divorced,Excellent,Protestant,Yes,Yes,3,1,2,4,1,1,1
+"Professional (PhD, JD, MD)",Female,Married,Very good,Protestant,Yes,Yes,3,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,Yes,0,0,3,2,1,1,1
+M.A. or M.S. degree,Female,Divorced,Good,Protestant,Yes,Yes,2,0,2,2,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Poor,Other religion,No,Yes,0,0,2,0,0,0,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,No,No,0,1,1,1,1,0,0
+M.A. or M.S. degree,Female,Married,Excellent,Protestant,No,Yes,2,0,1,4,1,0,1
+"12th grade, H.S. diploma",Male,Married,Good,No religion,Yes,No,0,1,1,2,0,1,0
+M.A. or M.S. degree,Male,Never married,Very good,Protestant,No,Yes,2,1,0,3,1,0,1
+M.A. or M.S. degree,Male,Divorced,Very good,Protestant,Yes,Yes,2,1,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,Protestant,Yes,Yes,1,1,0,2,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,Yes,0,0,3,3,1,1,1
+"12th grade, H.S. diploma",Male,Widowed,Excellent,Catholic,No,Yes,0,1,3,4,1,0,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,No,0,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,No,0,0,3,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Poor,Catholic,Yes,Yes,1,1,1,0,1,1,1
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Divorced,Good,Catholic,No,Yes,1,1,2,2,1,0,1
+"12th grade, H.S. diploma",Female,Divorced,Good,Protestant,Yes,Yes,0,0,2,2,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,No religion,Yes,Yes,1,1,0,2,0,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,No religion,No,No,1,0,1,3,0,0,0
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,No,2,0,2,3,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Fair,Catholic,Yes,No,0,0,3,1,1,1,0
+"12th grade, H.S. diploma",Male,Married,Excellent,Catholic,No,No,0,1,1,4,1,0,0
+M.A. or M.S. degree,Male,Married,Excellent,No religion,Yes,Yes,2,1,1,4,0,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,Yes,Yes,0,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+M.A. or M.S. degree,Male,Never married,Good,No religion,Yes,Yes,2,1,0,2,0,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,Yes,0,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,Yes,No,0,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Excellent,Protestant,Yes,Yes,1,1,0,4,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Fair,Protestant,Yes,No,0,0,2,1,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Excellent,Protestant,Yes,Yes,0,0,3,4,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,Yes,2,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,Yes,No,1,0,2,2,1,1,0
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,No,0,1,1,3,1,0,0
+"Professional (PhD, JD, MD)",Female,Divorced,Good,Protestant,Yes,Yes,3,0,2,2,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Catholic,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,No religion,No,No,1,1,1,2,0,0,0
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,No,No,1,0,1,3,1,0,0
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,Yes,No,0,1,1,1,1,1,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,No,No,0,0,1,1,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Good,Protestant,Yes,No,0,1,0,2,1,1,0
+M.A. or M.S. degree,Male,Never married,Fair,Catholic,Yes,Yes,2,1,0,1,1,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,Yes,0,1,1,2,1,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Protestant,Yes,Yes,0,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,No,Yes,1,1,1,4,1,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,No,No,1,1,1,2,1,0,0
+M.A. or M.S. degree,Female,Married,Very good,Catholic,No,Yes,2,0,1,3,1,0,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Jewish,Yes,No,0,0,1,4,0,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,Yes,1,1,1,3,0,1,1
+"12th grade, H.S. diploma",Male,Never married,Fair,Protestant,Yes,No,0,1,0,1,1,1,0
+4 years of coll./B.A. degree,Female,Never married,Good,Other religion,Yes,Yes,1,0,0,2,0,1,1
+"12th grade, H.S. diploma",Female,Divorced,Poor,Protestant,Yes,No,0,0,2,0,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Very good,Other religion,Yes,Yes,1,1,0,3,0,1,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Protestant,Yes,Yes,0,1,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Fair,Catholic,Yes,No,1,1,0,1,1,1,0
+"12th grade, H.S. diploma",Male,Married,Excellent,Catholic,Yes,Yes,0,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Married,Excellent,Catholic,No,No,0,0,1,4,1,0,0
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,No,No,0,0,1,1,1,0,0
+4 years of coll./B.A. degree,Female,Widowed,Very good,Protestant,Yes,No,1,0,3,3,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Good,Catholic,No,No,0,1,0,2,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,Yes,No,0,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Excellent,Protestant,Yes,No,1,1,0,4,1,1,0
+M.A. or M.S. degree,Male,Married,Excellent,No religion,Yes,Yes,2,1,1,4,0,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,No,0,1,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,Yes,1,0,2,3,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Excellent,Protestant,Yes,Yes,0,1,0,4,1,1,1
+4 years of coll./B.A. degree,Male,Divorced,Very good,Catholic,Yes,No,1,1,2,3,1,1,0
+"Professional (PhD, JD, MD)",Male,Never married,Excellent,Catholic,Yes,Yes,3,1,0,4,1,1,1
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,No,Yes,0,1,1,1,1,0,1
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Excellent,Protestant,Yes,Yes,1,0,2,4,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Protestant,Yes,Yes,0,1,0,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,No,No,1,0,1,3,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Very good,Catholic,Yes,Yes,0,1,0,3,1,1,1
+M.A. or M.S. degree,Male,Married,Good,No religion,No,Yes,2,1,1,2,0,0,1
+4 years of coll./B.A. degree,Male,Married,Very good,Other religion,No,No,1,1,1,3,0,0,0
+M.A. or M.S. degree,Male,Divorced,Very good,No religion,Yes,No,2,1,2,3,0,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Catholic,Yes,No,2,1,1,4,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Fair,Catholic,Yes,Yes,0,1,0,1,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Excellent,Protestant,No,No,0,0,0,4,1,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,No,Yes,1,1,1,3,1,0,1
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,No,0,1,1,3,1,0,0
+"12th grade, H.S. diploma",Female,Married,Fair,Catholic,No,No,0,0,1,1,1,0,0
+"Professional (PhD, JD, MD)",Female,Widowed,Fair,Protestant,Yes,Yes,3,0,3,1,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Excellent,Protestant,Yes,No,0,0,0,4,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Good,Protestant,No,No,1,0,2,2,1,0,0
+"12th grade, H.S. diploma",Female,Married,Very good,Catholic,Yes,Yes,0,0,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,No,0,1,1,3,1,0,0
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,No,Yes,1,1,1,3,1,0,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Catholic,No,No,0,1,0,3,1,0,0
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,No,0,1,1,3,1,0,0
+"12th grade, H.S. diploma",Female,Married,Good,No religion,No,Yes,0,0,1,2,0,0,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,No,Yes,0,1,1,1,1,0,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,No,2,1,1,4,1,1,0
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,Yes,Yes,0,0,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Good,No religion,No,No,0,1,1,2,0,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,Yes,No,0,1,1,2,1,1,0
+"12th grade, H.S. diploma",Male,Divorced,Excellent,No religion,No,No,0,1,2,4,0,0,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Other religion,Yes,Yes,1,0,1,3,0,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,Yes,0,1,1,3,1,0,1
+"12th grade, H.S. diploma",Female,Divorced,Very good,Protestant,Yes,Yes,0,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Very good,Protestant,No,No,0,0,0,3,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Excellent,No religion,Yes,No,0,1,0,4,0,1,0
+"12th grade, H.S. diploma",Male,Married,Excellent,Protestant,No,No,0,1,1,4,1,0,0
+M.A. or M.S. degree,Female,Married,Excellent,Catholic,Yes,Yes,2,0,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Good,No religion,Yes,Yes,0,0,0,2,0,1,1
+"12th grade, H.S. diploma",Female,Never married,Excellent,No religion,Yes,Yes,0,0,0,4,0,1,1
+M.A. or M.S. degree,Female,Never married,Very good,Protestant,Yes,Yes,2,0,0,3,1,1,1
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,No religion,Yes,No,1,0,1,3,0,1,0
+M.A. or M.S. degree,Female,Never married,Excellent,Protestant,Yes,Yes,2,0,0,4,1,1,1
+"12th grade, H.S. diploma",Male,Married,Excellent,No religion,No,No,0,1,1,4,0,0,0
+"12th grade, H.S. diploma",Female,Married,Excellent,Catholic,No,No,0,0,1,4,1,0,0
+"12th grade, H.S. diploma",Male,Married,Good,Catholic,No,No,0,1,1,2,1,0,0
+4 years of coll./B.A. degree,Male,Never married,Good,No religion,Yes,Yes,1,1,0,2,0,1,1
+"12th grade, H.S. diploma",Female,Married,Fair,Catholic,No,No,0,0,1,1,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Fair,No religion,Yes,Yes,0,1,0,1,0,1,1
+"12th grade, H.S. diploma",Female,Divorced,Fair,Protestant,Yes,No,0,0,2,1,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Very good,Protestant,Yes,Yes,1,1,0,3,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Catholic,No,No,0,1,0,3,1,0,0
+M.A. or M.S. degree,Male,Married,Poor,Protestant,No,No,2,1,1,0,1,0,0
+"12th grade, H.S. diploma",Male,Divorced,Excellent,No religion,Yes,No,0,1,2,4,0,1,0
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,No,0,0,0,2,1,1,0
+4 years of coll./B.A. degree,Male,Divorced,Good,Catholic,Yes,Yes,1,1,2,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Never married,Poor,Protestant,Yes,Yes,1,0,0,0,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Fair,Catholic,No,Yes,0,0,0,1,1,0,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Catholic,No,Yes,3,1,1,2,1,0,1
+M.A. or M.S. degree,Female,Never married,Excellent,Protestant,No,Yes,2,0,0,4,1,0,1
+"12th grade, H.S. diploma",Female,Never married,Fair,Protestant,Yes,No,0,0,0,1,1,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,No,Yes,2,1,1,4,1,0,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Catholic,No,No,0,1,0,3,1,0,0
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,No,No,3,1,1,4,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Fair,Catholic,No,No,0,1,0,1,1,0,0
+"12th grade, H.S. diploma",Female,Never married,Good,No religion,Yes,No,0,0,0,2,0,1,0
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,No,Yes,0,1,1,1,1,0,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Catholic,Yes,No,1,0,0,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Catholic,No,No,1,1,1,3,1,0,0
+4 years of coll./B.A. degree,Male,Divorced,Good,Catholic,No,No,1,1,2,2,1,0,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,No,Yes,1,1,1,4,1,0,1
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,No,0,0,0,2,1,1,0
+M.A. or M.S. degree,Female,Divorced,Very good,Protestant,Yes,Yes,2,0,2,3,1,1,1
+"12th grade, H.S. diploma",Female,Never married,Excellent,Catholic,Yes,No,0,0,0,4,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Very good,No religion,Yes,Yes,0,1,0,3,0,1,1
+"12th grade, H.S. diploma",Female,Married,Good,Catholic,No,No,0,0,1,2,1,0,0
+"12th grade, H.S. diploma",Male,Never married,Good,Catholic,No,Yes,0,1,0,2,1,0,1
+"12th grade, H.S. diploma",Female,Never married,Good,No religion,Yes,Yes,0,0,0,2,0,1,1
+M.A. or M.S. degree,Female,Married,Good,Protestant,Yes,No,2,0,1,2,1,1,0
+"12th grade, H.S. diploma",Female,Married,Poor,Catholic,No,No,0,0,1,0,1,0,0
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,No,0,1,1,3,1,0,0
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,No,Yes,0,1,1,1,1,0,1
+"12th grade, H.S. diploma",Male,Married,Fair,Catholic,No,No,0,1,1,1,1,0,0
+"12th grade, H.S. diploma",Female,Never married,Very good,No religion,Yes,Yes,0,0,0,3,0,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,Yes,0,1,1,2,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,No,Yes,1,0,1,3,1,0,1
+"12th grade, H.S. diploma",Female,Married,Fair,Protestant,Yes,No,0,0,1,1,1,1,0
+4 years of coll./B.A. degree,Female,Married,Very good,No religion,Yes,Yes,1,0,1,3,0,1,1
+"12th grade, H.S. diploma",Male,Married,Excellent,Catholic,Yes,No,0,1,1,4,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,No religion,Yes,No,1,1,1,3,0,1,0
+M.A. or M.S. degree,Male,Married,Good,Protestant,Yes,Yes,2,1,1,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,No,3,1,1,2,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Good,No religion,Yes,No,0,1,0,2,0,1,0
+M.A. or M.S. degree,Female,Married,Fair,Jewish,Yes,Yes,2,0,1,1,0,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,Yes,1,0,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,No religion,Yes,Yes,1,1,1,4,0,1,1
+4 years of coll./B.A. degree,Female,Married,Very good,Catholic,No,Yes,1,0,1,3,1,0,1
+"12th grade, H.S. diploma",Female,Married,Very good,Protestant,No,No,0,0,1,3,1,0,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,No,1,0,2,3,1,1,0
+"12th grade, H.S. diploma",Female,Married,Very good,No religion,Yes,No,0,0,1,3,0,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+M.A. or M.S. degree,Male,Widowed,Good,Jewish,Yes,Yes,2,1,3,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,No,1,1,1,2,1,1,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,No,2,0,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Divorced,Very good,Protestant,Yes,Yes,0,0,2,3,1,1,1
+M.A. or M.S. degree,Male,Never married,Excellent,Other religion,Yes,No,2,1,0,4,0,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Other religion,No,No,3,1,1,2,0,0,0
+"12th grade, H.S. diploma",Female,Never married,Excellent,Protestant,Yes,Yes,0,0,0,4,1,1,1
+M.A. or M.S. degree,Female,Never married,Very good,Protestant,Yes,Yes,2,0,0,3,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Fair,Catholic,Yes,Yes,0,0,2,1,1,1,1
+"Professional (PhD, JD, MD)",Female,Never married,Excellent,Protestant,Yes,Yes,3,0,0,4,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Excellent,No religion,Yes,Yes,1,1,0,4,0,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Catholic,Yes,Yes,1,0,0,4,1,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Protestant,Yes,Yes,0,1,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Very good,Protestant,Yes,Yes,0,1,0,3,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,No religion,Yes,Yes,2,1,1,4,0,1,1
+"Professional (PhD, JD, MD)",Female,Divorced,Poor,Protestant,Yes,Yes,3,0,2,0,1,1,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Protestant,Yes,No,1,0,1,4,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Poor,No religion,Yes,No,1,1,0,0,0,1,0
+M.A. or M.S. degree,Male,Married,Excellent,Catholic,Yes,No,2,1,1,4,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Excellent,Catholic,Yes,Yes,1,1,0,4,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Excellent,Catholic,Yes,No,0,1,2,4,1,1,0
+"Professional (PhD, JD, MD)",Male,Widowed,Very good,No religion,Yes,No,3,1,3,3,0,1,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"12th grade, H.S. diploma",Female,Widowed,Poor,Protestant,Yes,No,0,0,3,0,1,1,0
+"Professional (PhD, JD, MD)",Male,Never married,Very good,No religion,No,No,3,1,0,3,0,0,0
+4 years of coll./B.A. degree,Female,Never married,Excellent,Protestant,Yes,Yes,1,0,0,4,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,No religion,No,No,2,1,1,3,0,0,0
+"Professional (PhD, JD, MD)",Male,Never married,Fair,No religion,No,Yes,3,1,0,1,0,0,1
+M.A. or M.S. degree,Male,Married,Good,Catholic,Yes,Yes,2,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Very good,Protestant,Yes,No,0,1,2,3,1,1,0
+"12th grade, H.S. diploma",Male,Married,Poor,Protestant,Yes,No,0,1,1,0,1,1,0
+"Professional (PhD, JD, MD)",Male,Married,Good,Protestant,Yes,Yes,3,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Very good,No religion,Yes,No,1,1,0,3,0,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Protestant,Yes,Yes,1,0,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Divorced,Excellent,Protestant,Yes,No,0,1,2,4,1,1,0
+"Professional (PhD, JD, MD)",Female,Married,Very good,Protestant,Yes,Yes,3,0,1,3,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Protestant,Yes,Yes,2,1,1,4,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Fair,No religion,Yes,Yes,0,1,0,1,0,1,1
+"12th grade, H.S. diploma",Male,Divorced,Good,Catholic,Yes,No,0,1,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,Yes,Yes,1,0,1,2,1,1,1
+M.A. or M.S. degree,Male,Married,Excellent,Catholic,No,Yes,2,1,1,4,1,0,1
+4 years of coll./B.A. degree,Female,Married,Excellent,Catholic,Yes,Yes,1,0,1,4,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,No,Yes,3,1,1,4,1,0,1
+4 years of coll./B.A. degree,Female,Married,Good,Catholic,Yes,Yes,1,0,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,No religion,Yes,No,1,1,1,4,0,1,0
+M.A. or M.S. degree,Male,Married,Good,Catholic,No,No,2,1,1,2,1,0,0
+M.A. or M.S. degree,Male,Divorced,Very good,Protestant,Yes,Yes,2,1,2,3,1,1,1
+4 years of coll./B.A. degree,Male,Widowed,Excellent,Catholic,Yes,Yes,1,1,3,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+"12th grade, H.S. diploma",Female,Never married,Fair,Catholic,No,Yes,0,0,0,1,1,0,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Protestant,Yes,No,1,0,0,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,No,1,1,1,2,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Excellent,Protestant,Yes,Yes,3,1,1,4,1,1,1
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Good,Protestant,No,No,1,1,0,2,1,0,0
+4 years of coll./B.A. degree,Male,Married,Excellent,Catholic,Yes,Yes,1,1,1,4,1,1,1
+4 years of coll./B.A. degree,Female,Married,Fair,Catholic,No,No,1,0,1,1,1,0,0
+4 years of coll./B.A. degree,Male,Married,Good,Protestant,Yes,Yes,1,1,1,2,1,1,1
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Excellent,No religion,No,Yes,1,1,0,4,0,0,1
+4 years of coll./B.A. degree,Female,Never married,Very good,Catholic,Yes,Yes,1,0,0,3,1,1,1
+"Professional (PhD, JD, MD)",Female,Never married,Good,No religion,Yes,Yes,3,0,0,2,0,1,1
+4 years of coll./B.A. degree,Female,Never married,Excellent,Catholic,Yes,No,1,0,0,4,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Good,Protestant,Yes,No,0,0,3,2,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Very good,No religion,Yes,Yes,0,1,0,3,0,1,1
+"12th grade, H.S. diploma",Male,Married,Very good,Catholic,No,Yes,0,1,1,3,1,0,1
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,Yes,1,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Excellent,No religion,No,Yes,0,1,0,4,0,0,1
+4 years of coll./B.A. degree,Female,Married,Very good,Protestant,Yes,Yes,1,0,1,3,1,1,1
+M.A. or M.S. degree,Female,Never married,Excellent,Protestant,Yes,Yes,2,0,0,4,1,1,1
+4 years of coll./B.A. degree,Male,Married,Good,Jewish,Yes,Yes,1,1,1,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+"12th grade, H.S. diploma",Female,Divorced,Good,Protestant,Yes,No,0,0,2,2,1,1,0
+4 years of coll./B.A. degree,Male,Never married,Very good,Catholic,Yes,Yes,1,1,0,3,1,1,1
+"Professional (PhD, JD, MD)",Male,Married,Good,Other religion,No,No,3,1,1,2,0,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Female,Married,Fair,Catholic,Yes,Yes,1,0,1,1,1,1,1
+"12th grade, H.S. diploma",Female,Married,Very good,No religion,Yes,No,0,0,1,3,0,1,0
+"12th grade, H.S. diploma",Female,Never married,Good,No religion,Yes,Yes,0,0,0,2,0,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,Yes,1,1,1,4,1,1,1
+M.A. or M.S. degree,Female,Married,Good,Other religion,No,No,2,0,1,2,0,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,No,1,1,1,3,1,1,0
+4 years of coll./B.A. degree,Male,Married,Good,No religion,No,No,1,1,1,2,0,0,0
+"12th grade, H.S. diploma",Male,Married,Good,No religion,Yes,No,0,1,1,2,0,1,0
+"12th grade, H.S. diploma",Female,Never married,Good,Protestant,Yes,No,0,0,0,2,1,1,0
+"12th grade, H.S. diploma",Female,Divorced,Good,Protestant,Yes,No,0,0,2,2,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Good,No religion,Yes,Yes,0,1,0,2,0,1,1
+"12th grade, H.S. diploma",Male,Never married,Very good,No religion,Yes,No,0,1,0,3,0,1,0
+"12th grade, H.S. diploma",Male,Never married,Fair,Protestant,No,No,0,1,0,1,1,0,0
+4 years of coll./B.A. degree,Male,Married,Good,Catholic,Yes,No,1,1,1,2,1,1,0
+"12th grade, H.S. diploma",Male,Married,Fair,Protestant,Yes,Yes,0,1,1,1,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Very good,Protestant,No,Yes,1,1,0,3,1,0,1
+"Professional (PhD, JD, MD)",Female,Married,Good,Catholic,No,No,3,0,1,2,1,0,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Married,Excellent,Protestant,Yes,No,1,1,1,4,1,1,0
+"12th grade, H.S. diploma",Male,Never married,Very good,Protestant,Yes,No,0,1,0,3,1,1,0
+M.A. or M.S. degree,Female,Married,Very good,Protestant,Yes,Yes,2,0,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Good,Protestant,Yes,Yes,0,1,0,2,1,1,1
+"12th grade, H.S. diploma",Male,Married,Good,Protestant,Yes,Yes,0,1,1,2,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Excellent,Catholic,Yes,No,0,1,0,4,1,1,0
+4 years of coll./B.A. degree,Female,Divorced,Very good,Protestant,Yes,No,1,0,2,3,1,1,0
+"12th grade, H.S. diploma",Female,Widowed,Very good,Protestant,Yes,Yes,0,0,3,3,1,1,1
+"12th grade, H.S. diploma",Male,Never married,Fair,No religion,Yes,No,0,1,0,1,0,1,0
+4 years of coll./B.A. degree,Male,Married,Very good,Protestant,Yes,Yes,1,1,1,3,1,1,1
+4 years of coll./B.A. degree,Male,Never married,Very good,Protestant,Yes,Yes,1,1,0,3,1,1,1
+4 years of coll./B.A. degree,Male,Divorced,Good,Protestant,No,Yes,1,1,2,2,1,0,1
+"12th grade, H.S. diploma",Male,Widowed,Good,Protestant,Yes,No,0,1,3,2,1,1,0
+M.A. or M.S. degree,Male,Married,Very good,Protestant,Yes,Yes,2,1,1,3,1,1,1
+"12th grade, H.S. diploma",Male,Married,Excellent,Protestant,Yes,Yes,0,1,1,4,1,1,1
